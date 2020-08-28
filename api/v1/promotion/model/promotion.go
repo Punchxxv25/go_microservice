@@ -1,3 +1,5 @@
+package model
+
 // Promotion is the model
 type Go struct {
 	ID int `json:"id"`
